@@ -1,4 +1,21 @@
 body {
     color: black;
     background-color: gray;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    color: rgb(161, 5, 5);
+}
+
+h2 {
+    color: goldenrod;
+}
+
+h3 {
+    color: rgb(93, 6, 6);
+}
+
+.pizzaIng {
+    padding-left: 35px;
 }
